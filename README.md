@@ -14,3 +14,9 @@ It was a team project done by:
 - You can print your results using the `pdf` button.
 
 ![app](app.png)
+
+## Run the app
+
+```bash
+python main.py
+```
